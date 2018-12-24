@@ -24,7 +24,7 @@ function addToCart(item) {
   // generate random number between 0-100 inclusive and set to price variable
   var price = Math.floor( Math.random() * 101 );
   // store the item parameter into item variable
-  var item = item;
+
   // put item and price into object and assign to the itemAndPrice variable
   var itemAndPrice = { [item]: price };
   // add item and price to the cart array
