@@ -4,6 +4,8 @@ function setCart(newCart) {
   cart = newCart;
 }
 
+
+
 function total() {
   let t = 0
 
