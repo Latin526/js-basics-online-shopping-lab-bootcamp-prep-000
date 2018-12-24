@@ -4,7 +4,7 @@ function setCart(newCart) {
   cart = newCart;
 }
 
-
+return t
 
 function total() {
   let t = 0
